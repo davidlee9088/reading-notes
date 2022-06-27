@@ -2,6 +2,8 @@
 
 **This is where I am going to write my reading assignments**. 
 
+My name is Hanbyeol Lee. Former US Army Vet, and trying to become SD as we know the demand of the use of software development skills. 
+
 Growth Mindset is my own vision regardless upon my ablilties. I can grow and improve upon with determination, excercise, and patient. Reminding myself to stay growth mindset.
 Here is my own definition
 

@@ -10,4 +10,4 @@ reminding myself to stay growth mindset
 3. My own jounrey
 4. No excuses, just long as I am improving little bit little.
 
-My Github main page https://github.com/davidlee9088/
+My Github main page <https://github.com/davidlee9088/>

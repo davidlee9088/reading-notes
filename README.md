@@ -10,4 +10,5 @@ reminding myself to stay growth mindset
 3. My own jounrey
 4. No excuses, just long as I am improving little bit little.
 
+I can be contacted through this email [Hanbyeol's email](davidlee9088@gmail.com"Hanbyeol's email").
 My Github main page <https://github.com/davidlee9088/>

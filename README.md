@@ -13,4 +13,7 @@ Here is my own definition
 4. No excuses, just long as I am improving little bit little.
 
 
+![Fish are cool!](/desktop/fish.jpg)
+
+
 My Github main page <https://github.com/davidlee9088/>

@@ -13,6 +13,7 @@ Here is my own reminder everyday for growth mindset
 
 
 
+![fish](https://user-images.githubusercontent.com/82127028/176026471-64fcb135-069c-47dc-aab0-115f57c82c12.jpg)
 
 
 My Github main page <https://github.com/davidlee9088/>

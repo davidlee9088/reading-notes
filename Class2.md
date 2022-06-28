@@ -5,3 +5,5 @@
 3. Some programs can be used freely, however, some do have to be purchased
 4. Text editor VS IDES. IDES is text editor with differnt functions added
 5. Program makers are all differnent, and focuses in differnet areas.
+
+https://davidlee9088.github.io/reading-notes/Class2

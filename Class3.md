@@ -1,3 +1,1 @@
-GIT example
-No issues for now
-
+#Class3 Reading notes

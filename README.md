@@ -11,6 +11,9 @@ Here is my own reminder everyday for growth mindset
 2. Can't help others unless I can help myself first
 4. No excuses, just long as I am improving little bit everyday. No need to feel sad
 
+Systems are all connected to each other, an example terminal - git - node etc.
+Markdown can be used to create a webpage without using CSS, Javascript
+Terminal can be used to to locate or create a folder within the terminal
 
 
 ![fish](https://user-images.githubusercontent.com/82127028/176026471-64fcb135-069c-47dc-aab0-115f57c82c12.jpg)

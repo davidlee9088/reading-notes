@@ -1,0 +1,12 @@
+# Class 5 Notes
+- CSS(Cascading Style Sheet) allows you to create design for the webpage.
+- HTML > CSS > Java in order
+- With CSS, can control how HTML elements to look in the browser
+- Color, font-size property
+- all web standards techonlogies (html,css,JavaScript) are defined in giant documents called speifications/specs which are published by standards
+- Three ways to insert a stylesheet. External, internal, inline
+- External < link rel= "stylesheet" href="mystyle.css">
+- .css file should not contain any HTML tags
+- internal is used on HTML page
+- inline uses within the line of the html. External should be used more often, the effect gets prioritzed upon inline
+-

@@ -1,0 +1,27 @@
+# Class 7 Notes
+- the control flow is the order in which the computer executes statement in a script
+- first line to the last line 
+- function keyword, followed by a name, follwed by parenthese () then {} the code to be executed inside of the {}
+- function - name - (parameter names separated by commas) {}
+- function arguments are the values received behave as local variables 
+- the code inside the function will execute when something invokes the function
+- return statement, after invoked, java will return to execute the code after. Function often compute a return value. 
+- =	x = y	x = y
+- +=	x += y	x = x + y
+- -=	x -= y	x = x - y
+- *=	x *= y	x = x * y
+- /=	x /= y	x = x / y
+- %=	x %= y	x = x % y
+- **=	x **= y	x = x ** y
+- ==	equal to
+- ===	equal value and equal type
+- !=	not equal
+- !==	not equal value or not equal type
+- >	greater than
+- <	less than
+- >=	greater than or equal to
+- <=	less than or equal to
+- ?	ternary operator
+- &&	logical and
+- ||	logical or
+- !	logical not

@@ -10,10 +10,10 @@ Table of Contents of Completed Notes:
 - [Class4](https://davidlee9088.github.io/reading-notes/Class4).
 - [Class5](https://davidlee9088.github.io/reading-notes/Class5)
 - [Class6](https://davidlee9088.github.io/reading-notes/Class6).
-
-Table of Contents of Not Completed Notes
 - [Class7](https://davidlee9088.github.io/reading-notes/Class7)
 - [Class8](https://davidlee9088.github.io/reading-notes/Class8).
+
+Table of Contents of Not Completed Notes
 - [Class9](https://davidlee9088.github.io/reading-notes/Class9).
 - [Class10](https://davidlee9088.github.io/reading-notes/Class10).
 
